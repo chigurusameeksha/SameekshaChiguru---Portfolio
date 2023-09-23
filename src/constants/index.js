@@ -115,8 +115,8 @@ import {
 BsRobot
 import { DiCss3, DiJava, DiMsqlServer, DiRuby } from "react-icons/di";
 
-export const resumeLink = "https://drive.google.com/file/d/1OT8HPgVFgnBPkdEc-DW7CaKYSjb2H3wz/view?usp=drive_link";
-export const repoLink = "https://github.com/chigurusameeksha/sameekshachiguru.github.io";
+export const resumeLink = "https://drive.google.com/file/d/1AQC4f9ek_nZ05clpBZB5mS15Oalyr9Gy/view?usp=sharing";
+export const repoLink = "https://github.com/chigurusameeksha/SameekshaChiguru---Portfolio";
 
 export const callToAction = "https://www.linkedin.com/in/sameeksha-chiguru/";
 
@@ -395,7 +395,7 @@ export const experiences = [
         duration: "Jul 2020 - Oct 2020",
         content: [
           {
-            text: "Individually developed a feature for the Servicenow platform’s script debugger, enhancing debugging functionality.",
+            text: "Individually developed a feature for the Servicenow platform's script debugger, enhancing debugging functionality.",
             link: "",
           },
           {
@@ -445,11 +445,11 @@ export const projects = [
   {
     id: "project-1",
     title: "Credit card prediction",
-    github: "https://github.com/chigurusameeksha/creditcard",
+    github: "https://github.com/chigurusameeksha/Credit-Card",
     link: "",
     image: creditcard,
     content:
-      "Analyzed historical credit card transaction data and predict the likelihood of future credit card fraud or default.The ultimate goal is to enhance fraud detection and credit risk assessment for better financial decision-making. ",
+      "Automatic credit card approval predictor using machine learning techniques",
     stack: [
       {
         id: "icon-1",
@@ -481,7 +481,7 @@ export const projects = [
   {
     id: "project-2",
     title: "DebunkIt: Identifying the fake news",
-    github: "https://github.com/mittal-parth/GreenTrust",
+    github: "https://github.com/chigurusameeksha/DebunkIt",
     link: "",
     image: fakenews,
     content:
@@ -519,7 +519,7 @@ export const projects = [
   {
     id: "project-3",
     title: "Obesity levels prediction",
-    github: "https://github.com/CommanderAstern/ChargeSwap",
+    github: "https://github.com/chigurusameeksha/ObesityLevels",
     link: "",
     image: obesity,
     content:
